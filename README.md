@@ -11,13 +11,8 @@ UaPixelBattle - це скрипт для TamperMonkey. Він підсказує
 1. Клавіша "f" - Режим підсказки (по замовчуванням вкл.), показує картинку з цього репозіторія прямо на полотні.
 2. Клавіша "g" - Безпечний режим (по замовчуванням вкл.), пікселі ставляться тільки по картинці
 
-Виключений режим підсказки:
+https://user-images.githubusercontent.com/94324265/222890255-9ab6139f-017c-4d67-b031-ce4ab65ccb67.mov
 
-![without_help](./assets/without_help.png)
-
-Включений режим підсказки:
-
-![with_help](./assets/with_help.png)
 ## Автор
 TG: [@Oxonomy-pixel](https://t.me/Oxonomy-pixel)
 
