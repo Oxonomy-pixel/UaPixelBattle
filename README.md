@@ -3,7 +3,7 @@ UaPixelBattle - це скрипт для TamperMonkey. Він підсказує
 
 ## Встановлення
 1. Встановлюємо [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru)
-2. Скачуємо скрипт з [Greasy Fork](hhttps://greasyfork.org/ru/scripts/461145-uapixelbattle)
+2. Скачуємо скрипт з [Greasy Fork](https://greasyfork.org/ru/scripts/461145-uapixelbattle)
 3. Заходимо в наш [TG](https://t.me/uapixelbattlechat)
 4. Використовуємо!
 
