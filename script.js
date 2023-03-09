@@ -111,6 +111,7 @@ function main2(){
         redrawTarget()
     }
     function onPointerDown() {
+        if (!enabled) return
         isDragging = true
         unsafeWindow.isClick = false
 
@@ -165,11 +166,14 @@ function main2(){
             enabled = !enabled
             if (enabled) {
                 redrawTarget()
-                targetCanvas.style.zIndex = 5
+                // targetCanvas.style.zIndex = 5
+                targetCanvas.style.display = ""
                 console.log("enabled")
             }else {
-                targetCanvas.style.zIndex = 0
+                // targetCanvas.style.zIndex = 0
+                targetCanvas.style.display = "none"
                 //clearTarget()
+                isDragging = false
                 console.log("disabled")
             }
         }
