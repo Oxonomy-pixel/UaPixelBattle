@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name UaPixelBattle
-// @description Pixel battle helper tool for Ukrainian team https://t.me/uapixelbattlechat
+// @description Pixel battle helper tool for Ukrainian team https://t.me/uapixelbattl
 // @version 1.0.0
-// @namespace https://t.me/uapixelbattlechat
+// @namespace https://t.me/uapixelbattle
 // @include *ext-twitch.tv/sn8*
 // @author       Oxonomy-pixel
 // @grant        GM_xmlhttpRequest
