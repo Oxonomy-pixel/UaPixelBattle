@@ -14,7 +14,7 @@ UaPixelBattle - це скрипт для TamperMonkey. Він підсказує
 https://user-images.githubusercontent.com/94324265/222890255-9ab6139f-017c-4d67-b031-ce4ab65ccb67.mov
 
 ## Автор
-TG: [@Oxonomy-pixel](https://t.me/Oxonomy-pixel)
+TG: [@Oxonomy_pixel](https://t.me/Oxonomy_pixel)
 
 ## Ліцензія
 [MIT](LICENSE)
